@@ -1,0 +1,16 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+}
+
+body {
+    background-color: rgb(9, 9, 49);
+}
+
+main {
+    background-color: aqua;
+    width: 800px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 10px 10p 15p 15p rgba(19, 16, 16, 0.281);
+}
